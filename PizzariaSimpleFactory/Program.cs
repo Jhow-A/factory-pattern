@@ -6,7 +6,7 @@ namespace PizzariaSimpleFactory
     {
         static void Main(string[] args)
         {
-            
+            Pizzaria.PedirPizza();
         }
     }
 }
